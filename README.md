@@ -4,6 +4,6 @@ Para subir o server basta ir no terminal, dentro da pasta, e executar:
 
 Links legais: 
 
-[GraphQL: The Documentary][https://www.youtube.com/watch?v=783ccP__No8]
+[GraphQL: The Documentary](https://www.youtube.com/watch?v=783ccP__No8)
 
 enjoy! :D
